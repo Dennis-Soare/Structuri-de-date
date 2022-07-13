@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1615735017 source:c:\users\asus\desktop\codeblocks\bubble sort\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<bits/stdc++.h>
+	<chrono>
+
+1615735017 source:c:\users\asus\desktop\soare dennis - sortari\bubble sort\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<bits/stdc++.h>
+	<chrono>
+
