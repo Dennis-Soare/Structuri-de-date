@@ -1,0 +1,49 @@
+
+Test 1:  nr elemente = 1000;  val max = 100000000;
+Bubble sort: Succes;     timp = 0 milisecunde
+Merge sort: Succes;     timp = 0 milisecunde
+Quick sort: Succes;     timp = 0 milisecunde
+Count sort: Succes;     timp = 756 milisecunde
+Radix sort: Succes;     timp = 0 milisecunde
+
+Test 2:  nr elemente = 10000;  val max = 10000000;
+Bubble sort: Succes;     timp = 766 milisecunde
+Merge sort: Succes;     timp = 3 milisecunde
+Quick sort: Succes;     timp = 0 milisecunde
+Count sort: Succes;     timp = 72 milisecunde
+Radix sort: Succes;     timp = 10 milisecunde
+
+Test 3:  nr elemente = 100000;  val max = 1000000;
+Bubble sort: input prea mare
+Merge sort: Succes;     timp = 52 milisecunde
+Quick sort: Succes;     timp = 30 milisecunde
+Count sort: Succes;     timp = 13 milisecunde
+Radix sort: Succes;     timp = 20 milisecunde
+
+Test 4:  nr elemente = 1000000;  val max = 100000;
+Bubble sort: input prea mare
+Merge sort: Succes;     timp = 666 milisecunde
+Quick sort: Succes;     timp = 369 milisecunde
+Count sort: Succes;     timp = 21 milisecunde
+Radix sort: Succes;     timp = 236 milisecunde
+
+Test 5:  nr elemente = 1000000;  val max = 1000000;
+Bubble sort: input prea mare
+Merge sort: Succes;     timp = 752 milisecunde
+Quick sort: Succes;     timp = 375 milisecunde
+Count sort: Succes;     timp = 45 milisecunde
+Radix sort: Succes;     timp = 276 milisecunde
+
+Test 6:  nr elemente = 10000000;  val max = 1000000;
+Bubble sort: input prea mare
+Merge sort: Succes;     timp = 7420 milisecunde
+Quick sort: Succes;     timp = 4202 milisecunde
+Count sort: Succes;     timp = 256 milisecunde
+Radix sort: Succes;     timp = 2775 milisecunde
+
+Test 7:  nr elemente = 100000000;  val max = 1000000;
+Bubble sort: input prea mare
+Merge sort: input prea mare
+Quick sort: input prea mare
+Count sort: Succes;     timp = 3781 milisecunde
+Radix sort: input prea mare
